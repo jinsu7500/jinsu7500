@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/unity-003545?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Nexacro-F05032?style=for-the-badge&logo=Experts Exchange&logoColor=white">
 </p>
 
 #### 🌱Study
@@ -27,14 +28,20 @@
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"><br> 
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu_7500)](https://solved.ac/jinsu_7500/)
 
 ### 🔭 Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinsu7500)](https://github.com/anuraghazra/github-readme-stats)
 ### 💬 Most Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu7500&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
+### 👯 Career
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Graduate** | 2016.03 ~ 2022.02 | Computer Science | **Kongju National University** |
+| **:computer: Working** | 2022.02 ~         | System software development | **Financial DataSystem** |
+-->
 
 ###
 <!--
